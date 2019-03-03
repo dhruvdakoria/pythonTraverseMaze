@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  2 21:29:09 2019
-
-@author: dhruv
-"""
-
 import random,sys
 from io import StringIO
 
